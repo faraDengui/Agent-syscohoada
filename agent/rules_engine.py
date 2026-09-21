@@ -92,6 +92,9 @@ class PlanComptable:
         compte = self._comptes.get(numero)
         return compte["intitule"] if compte else None
 
+    def tous(self) -> list[dict]:
+        return list(self._comptes.values())
+
 
 def verifier_structure(ecriture: EcritureComptable) -> list[str]:
     """Contrôles de forme : nombre de lignes, montants, cohérence débit/crédit par ligne."""

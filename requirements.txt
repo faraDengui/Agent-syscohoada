@@ -1,2 +1,4 @@
 pypdf
 pytest
+anthropic
+python-dotenv
