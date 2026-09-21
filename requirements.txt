@@ -2,3 +2,5 @@ pypdf
 pytest
 anthropic
 python-dotenv
+chromadb
+voyageai
