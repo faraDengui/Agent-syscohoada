@@ -1,0 +1,1324 @@
+numero,intitule,classe,niveau,page
+11,Réserves,1,2,3
+12,Report à nouveau,1,2,3
+13,Résultat net de l'exercice,1,2,3
+14,Subventions d'investissement,1,2,3
+15,Provisions réglementées et fonds assimilés,1,2,3
+16,Emprunts et dettes assimilées,1,2,3
+17,Dettes de location acquisition,1,2,3
+18,Dettes liées à des participations et comptes de liaison des établissements et sociétés en participation,1,2,3
+19,Provisions pour risques et charges,1,2,3
+101,Capital social,1,3,3
+102,Capital par dotation,1,3,3
+103,Capital personnel,1,3,3
+104,Compte de l'exploitant,1,3,3
+105,Primes liées au capital social,1,3,3
+106,Ecarts de réévaluation,1,3,3
+109,"Apporteurs, capital souscrit, non appelé",1,3,3
+111,RESERVE LEGALE,1,3,3
+112,RESERVES STATUTAIRES OU CONTRACTUELLES,1,3,3
+113,RESERVES REGLEMENTEES,1,3,3
+118,AUTRES RESERVES,1,3,3
+121,REPORT A NOUVEAU CREDITEUR,1,3,3
+129,REPORT A NOUVEAU DEBITEUR,1,3,3
+130,RESULTAT EN INSTANCE D'AFFECTATION,1,3,3
+131,RESULTAT NET : BENEFICE,1,3,3
+132,MARGE COMMERCIALE (M.C.),1,3,3
+133,VALEUR AJOUTEE (V.A.),1,3,3
+134,EXCEDENT BRUT D'EXPLOITATION (E.B.E.),1,3,3
+135,RESULTAT D'EXPLOITATION (R.E.),1,3,3
+136,RESULTAT FINANCIER (R.F .),1,3,3
+137,RESULTAT DES ACTIVITES ORDINAIRES (R.A.O.),1,3,3
+138,RESULTAT HORS ACTIVITES ORDINAIRES (R.H.A.O.),1,3,3
+139,RESULTAT NET : PERTE,1,3,3
+141,SUBVENTIONS D'EQUIPEMENT,1,3,3
+148,AUTRES SUBVENTIONS D'INVESTISSEMENT,1,3,3
+151,AMORTISSEMENTS DEROGATOIRES,1,3,3
+152,PLUS-VALUES DE CESSION A REINVESTIR,1,3,3
+153,FONDS REGLEMENTES,1,3,3
+154,PROVISION SPECIALE DE REEVALUATION,1,3,3
+155,PROVISIONS REGLEMENTEES RELATIVES AUX IMMOBILISATIONS,1,3,3
+156,PROVISIONS REGLEMENTEES RELATIVES AUX STOCKS,1,3,3
+157,PROVISIONS POUR INVESTISSEMENT,1,3,3
+158,AUTRES PROVISIONS ET FONDS REGLEMENTES,1,3,3
+161,EMPRUNTS OBLIGATAIRES,1,3,3
+162,EMPRUNTS ET DETTES AUPRES DES ETABLISSEMENTS DE CREDIT,1,3,3
+163,AVANCES REÇUES DE L'ETAT,1,3,3
+164,AVANCES REÇUES ET COMPTES COURANTS BLOQUES,1,3,3
+165,DEPÔTS ET CAUTIONNEMENTS REÇUS,1,3,3
+166,INTERÊTS COURUS,1,3,4
+167,AVANCES ASSORTIES DE CONDITIONS PARTICULIERES,1,3,4
+168,AUTRES EMPRUNTS ET DETTES,1,3,4
+172,DETTES DE LOCATION ACQUISITION/CREDIT- BAIL IMMOBILIER,1,3,4
+173,DETTES DE LOCATION ACQUISITION/ CREDIT- BAIL MOBILIER,1,3,4
+174,DETTES DE LOCATION ACQUISITION /LOCATION VENTE,1,3,4
+176,INTERÊTS COURUS,1,3,4
+178,DETTES D'AUTRES CONTRATS DE LOCATION ACQUISITION,1,3,4
+181,DETTES LIEES A DES PARTICIPATIONS,1,3,4
+182,DETTES LIEES A DES SOCIETES EN PARTICIPATION,1,3,4
+183,INTERÊTS COURUS SUR DETTES LIEES A DES PARTICIPATIONS,1,3,4
+184,COMPTES PERMANENTS BLOQUES DES ETABLISSEMENTS ET SUCCURSALES,1,3,4
+185,COMPTES PERMANENTS NON BLOQUES DES ETABLISSEMENTS ET SUCCURSALES,1,3,4
+186,COMPTES DE LIAISON CHARGES,1,3,4
+187,COMPTES DE LIAISON PRODUITS,1,3,4
+188,COMPTES DE LIAISON DES SOCIETES EN PARTICIPATION,1,3,4
+191,PROVISIONS POUR LITIGES,1,3,4
+192,PROVISIONS POUR GARANTIES DONNEES AUX CLIENTS,1,3,4
+193,PROVISIONS POUR PERTES SUR MARCHES A ACHEVEMENT FUTUR,1,3,4
+194,PROVISIONS POUR PERTES DE CHANGE,1,3,4
+195,PROVISIONS POUR IMPÔTS,1,3,4
+196,PROVISIONS POUR PENSIONS ET OBLIGATIONS SIMILAIRES,1,3,4
+197,PROVISIONS POUR RESTRUCTURATION,1,3,4
+198,AUTRES PROVISIONS POUR RISQUES ET CHARGES,1,3,4
+1011,"Capital souscrit, non appelé",1,4,4
+1012,"Capital souscrit, appelé, non versé",1,4,4
+1013,"Capital souscrit, appelé, versé, non amorti",1,4,4
+1014,"Capital souscrit, appelé, versé, amorti",1,4,4
+1018,"Capital souscrit, soumis à des conditions particulières",1,4,4
+1021,Dotation initiale,1,4,4
+1022,Dotations complémentaires,1,4,4
+1028,Autres dotations,1,4,4
+1041,Apports temporaires,1,4,4
+1042,Opérations courantes,1,4,4
+1043,"Rémunérations, impôts, et autres charges personnelles",1,4,4
+1047,Prélèvements d'autoconsommation,1,4,4
+1048,Autres prélèvements,1,4,4
+1051,Primes d'émission,1,4,4
+1052,Primes d'apport,1,4,4
+1053,Primes de fusion,1,4,4
+1054,Primes de conversion,1,4,4
+1058,Autres primes,1,4,4
+1061,Ecarts de réévaluation légale,1,4,4
+1062,Ecarts de réévaluation libre,1,4,4
+1131,Réserves de plus-values nettes à long terme,1,4,4
+1132,Réserves d'attribution gratuite d'actions au personnel salarié et aux dirigeants,1,4,4
+1133,Réserves consécutives à l'octroi de subventions d'investissement,1,4,4
+1134,Réserves de valeurs mobilières donnant accès au capital,1,4,4
+1138,Autres réserves réglementées,1,4,4
+1181,Réserves facultatives,1,4,4
+1188,Réserves diverses,1,4,4
+1291,Perte nette à reporter,1,4,5
+1292,Perte-Amortissements réputés différés,1,4,5
+1301,Résultat en instance d'affectation : Bénéfice,1,4,5
+1309,Résultat en instance d'affectation : Perte,1,4,5
+1381,"Résultat de fusion,",1,4,5
+1382,Résultat d'apport partiel d'actif,1,4,5
+1383,Résultat de scission,1,4,5
+1384,Résultat de liquidation,1,4,5
+1411,Etat,1,4,5
+1412,Régions,1,4,5
+1413,Départements,1,4,5
+1414,Communes et collectivités publiques décentralisées,1,4,5
+1415,Entités publiques ou mixtes,1,4,5
+1416,Entreprises et organismes privés,1,4,5
+1417,Organismes internationaux,1,4,5
+1418,Autres,1,4,5
+1531,Fonds national,1,4,5
+1532,Prélèvement pour le Budget,1,4,5
+1551,Reconstitution des gisements miniers et pétroliers,1,4,5
+1561,Hausse de prix,1,4,5
+1562,Fluctuation des cours,1,4,5
+1611,Emprunts obligataires ordinaires,1,4,5
+1612,Emprunts obligataires convertibles en actions,1,4,5
+1613,Emprunts obligataires remboursables en actions,1,4,5
+1618,Autres emprunts obligataires,1,4,5
+1651,Dépôts,1,4,5
+1652,Cautionnements,1,4,5
+1661,166 · Interêts courus sur emprunts obligataires,1,4,5
+1662,166 · Interêts courus sur emprunts et dettes auprès des établissements de crédit,1,4,5
+1663,166 · Interêts courus sur avances reçues de l'Etat,1,4,5
+1664,166 · Interêts courus sur avances reçues et comptes courants bloqués,1,4,5
+1665,166 · Interêts courus sur dépôts et cautionnements reçus,1,4,5
+1667,166 · Interêts courus sur avances assorties de conditions particulières,1,4,5
+1668,166 · Interêts courus sur autres emprunts et dettes,1,4,5
+1671,Avances bloquées pour augmentation du capital,1,4,5
+1672,Avances conditionnées par l'Etat,1,4,5
+1673,Avances conditionnées par les autres organismes africains,1,4,5
+1674,Avances conditionnées par les organismes internationaux,1,4,5
+1676,Droits du concédant exigibles en nature,1,4,5
+1681,Rentes viagères capitalisées,1,4,5
+1682,Billets de fonds,1,4,5
+1683,Dettes consécutives à des titres empruntés,1,4,5
+1685,Emprunts participatifs,1,4,5
+1686,Participation des travailleurs aux bénéfices,1,4,5
+1762,176 · Interêts courus sur dettes de location acquisition/crédit-bail immobilier,1,4,5
+1763,176 · Interêts courus sur dettes de location acquisition/crédit-bail mobilier,1,4,6
+1764,176 · Interêts courus sur dettes de location acquisition/location vente,1,4,6
+1768,176 · Interêts courus sur autres dettes de location acquisition,1,4,6
+1811,Dettes liées à des participations (groupe),1,4,6
+1812,Dettes liées à des participations (hors groupe),1,4,6
+1961,Provisions pour pensions et obligations similaires – engagement de retraite,1,4,6
+1962,Actif du régime de retraite,1,4,6
+1981,Provisions pour amendes et pénalités,1,4,6
+1983,Provisions de propre assureur,1,4,6
+1984,Provisions pour démantèlement et remise en état,1,4,6
+1985,"Provisions de droits à déduction (Chèques cadeau, cartes de fidélité…)",1,4,6
+1988,Autres provisions pour risques et charges,1,4,6
+21,Immobilisations incorporelles,2,2,6
+22,Terrains,2,2,6
+23,"Bâtiments, installations techniques et agencements",2,2,6
+24,"Matériel, Mobilier et Actifs biologiques",2,2,6
+25,Avances et acomptes versés sur immobilisations,2,2,6
+26,Titres de participation,2,2,6
+27,Autres immobilisations financières,2,2,6
+28,Amortissements,2,2,6
+29,Dépréciations,2,2,6
+211,FRAIS DE DEVELOPPEMENT,2,3,6
+212,"BREVETS, LICENCES, CONCESSIONS ET DROITS SIMILAIRES",2,3,6
+213,LOGICIELS ET SITES INTERNET,2,3,6
+214,MARQUES,2,3,6
+215,FONDS COMMERCIAL,2,3,6
+216,DROIT AU BAIL,2,3,6
+217,INVESTISSEMENTS DE CREATION,2,3,6
+218,AUTRES DROITS ET VALEURS INCORPORELS,2,3,6
+219,IMMOBILISATIONS INCORPORELLES EN COURS,2,3,6
+221,TERRAINS AGRICOLES ET FORESTIERS,2,3,6
+222,TERRAINS NUS,2,3,6
+223,TERRAINS BÂTIS,2,3,6
+224,TRAVAUX DE MISE EN VALEUR DES TERRAINS,2,3,6
+225,TERRAINS CARRIERES TREFONDS,2,3,6
+226,TERRAINS AMENAGES,2,3,6
+227,TERRAINS MIS EN CONCESSION,2,3,6
+228,AUTRES TERRAINS,2,3,6
+229,AMENAGEMENTS DE TERRAINS EN COURS,2,3,6
+231,"BÂTIMENTS INDUSTRIELS, AGRICOLES, ADMINISTRATIFS ET COMMERCIAUX SUR SOL PROPRE",2,3,6
+232,"BÂTIMENTS INDUSTRIELS AGRICOLES, ADMINISTRATIFS ET COMMERCIAUX SUR SOL D'AUTRUI",2,3,6
+233,OUVRAGES D'INFRASTRUCTURE,2,3,6
+234,INSTALLATIONS TECHNIQUES,2,3,6
+235,AMENAGEMENTS DE BUREAUX,2,3,6
+237,"BÂTIMENTS INDUSTRIELS, AGRICOLES ET COMMERCIAUX MIS EN CONCESSION",2,3,7
+238,AUTRES INSTALLATIONS ET AGENCEMENTS,2,3,7
+239,BÂTIMENTS ET INSTALLATIONS EN COURS,2,3,7
+241,MATERIEL ET OUTILLAGE INDUSTRIEL ET COMMERCIAL,2,3,7
+242,MATERIEL ET OUTILLAGE AGRICOLE,2,3,7
+243,MATERIEL D'EMBALLAGE RECUPERABLE ET IDENTIFIABLE,2,3,7
+244,MATERIEL ET MOBILIER,2,3,7
+245,MATERIEL DE TRANSPORT,2,3,7
+246,ACTIFS BIOLOGIQUES,2,3,7
+247,"AGENCEMENTS, AMENAGEMENTS DU MATERIEL ET ACTIFS BIOLOGIQUES",2,3,7
+248,AUTRES MATERIELS ET MOBILIERS,2,3,7
+249,MATERIEL ET ACTIFS BIOLOGIQUES EN COURS,2,3,7
+251,AVANCES ET ACOMPTES VERSÉS SUR IMMOBILISATIONS INCORPORELLES,2,3,7
+252,AVANCES ET ACOMPTES VERSÉS SUR IMMOBILISATIONS CORPORELLES,2,3,7
+261,TITRES DE PARTICIPATION DANS DES SOCIETES SOUS CONTRÔLE EXCLUSIF,2,3,7
+262,TITRES DE PARTICIPATION DANS DES SOCIETES SOUS CONTRÔLE CONJOINT,2,3,7
+263,TITRES DE PARTICIPATION DANS DES SOCIETES CONFERANT UNE INFLUENCE NOTABLE,2,3,7
+265,PARTICIPATIONS DANS DES ORGANISMES PROFESSIONNELS,2,3,7
+266,PARTS DANS DES GROUPEMENTS D'INTERÊT ECONOMIQUE (G.I.E.),2,3,7
+268,AUTRES TITRES DE PARTICIPATION,2,3,7
+271,PRÊTS ET CREANCES,2,3,7
+272,PRÊTS AU PERSONNEL,2,3,7
+273,CREANCES SUR L'ETAT,2,3,7
+274,TITRES IMMOBILISES,2,3,7
+275,DEPÔTS ET CAUTIONNEMENTS VERSES,2,3,7
+276,INTERÊTS COURUS,2,3,7
+277,CREANCES RATTACHEES A DES PARTICIPATIONS ET AVANCES A DES G.I.E.,2,3,7
+278,IMMOBILISATIONS FINANCIERES DIVERSES,2,3,7
+281,AMORTISSEMENTS DES IMMOBILISATIONS INCORPORELLES,2,3,7
+282,AMORTISSEMENTS DES TERRAINS,2,3,7
+283,"AMORTISSEMENTS DES BÂTIMENTS, INSTALLATIONS TECHNIQUES ET AGENCEMENTS",2,3,7
+284,AMORTISSEMENTS DU MATERIEL,2,3,7
+291,DEPRECIATIONS DES IMMOBILISATIONS NCORPORELLES,2,3,7
+292,DEPRECIATIONS DES TERRAINS,2,3,7
+293,"DEPRECIATIONS DES BÂTIMENTS, INSTALLATIONS TECHNIQUES ET AGENCEMENTS",2,3,7
+294,"DEPRECIATIONS DU MATERIEL, DU MOBILIER ET DE L'ACTIF BIOLOGIQUE",2,3,7
+295,DEPRECIATIONS DES AVANCES ET ACOMPTES VERSES SUR IMMOBILISATIONS,2,3,7
+296,DEPRECIATIONS DES TITRES DE PARTICIPATION,2,3,7
+297,DEPRECIATIONS DES AUTRES IMMOBILISATIONS FINANCIERES,2,3,7
+2121,Brevets,2,4,7
+2122,Licences,2,4,7
+2123,Concessions de service public,2,4,7
+2128,Autres concessions et droits similaires,2,4,7
+2131,Logiciels,2,4,7
+2132,Sites internet,2,4,7
+2181,Frais de prospection et d'évaluation de ressources minérales,2,4,7
+2182,Coûts d'obtention du contrat,2,4,7
+2183,"Fichiers clients, notices, titres de journaux et magazines",2,4,7
+2188,Divers droits et valeurs incorporelles,2,4,7
+2191,Frais de développement,2,4,7
+2193,Logiciels,2,4,7
+2198,Autres droits et valeurs incorporels,2,4,8
+2211,Terrains d'exploitation agricole,2,4,8
+2212,Terrains d'exploitation forestière,2,4,8
+2218,Autres terrains,2,4,8
+2221,Terrains à bâtir,2,4,8
+2228,Autres terrains nus,2,4,8
+2231,223 · Terrains bâtis pour bâtiments industriels et agricoles,2,4,8
+2232,223 · Terrains bâtis pour bâtiments administratifs et commerciaux,2,4,8
+2234,223 · Terrains bâtis pour bâtiments affectés aux autres opérations professionnelles,2,4,8
+2235,223 · Terrains bâtis pour bâtiments affectés aux autres opérations non professionnelles,2,4,8
+2238,Autres terrains bâtis,2,4,8
+2241,Plantations d'arbres et d'arbustes,2,4,8
+2245,Améliorations du fonds,2,4,8
+2248,Autres travaux,2,4,8
+2251,Carrières,2,4,8
+2261,Parkings,2,4,8
+2281,Terrains des immeubles de placement,2,4,8
+2285,Terrains des logements affectés au personnel,2,4,8
+2286,Terrain location-acquisition,2,4,8
+2288,Autres,2,4,8
+2291,Terrains agricoles et forestiers,2,4,8
+2292,Terrains nus,2,4,8
+2295,Terrains de carrières – tréfonds,2,4,8
+2298,Autres terrains,2,4,8
+2311,Bâtiments industriels,2,4,8
+2312,Bâtiments agricoles,2,4,8
+2313,Bâtiments administratifs et commerciaux,2,4,8
+2314,Bâtiments affectés au logement du personnel,2,4,8
+2315,Immeubles de placement,2,4,8
+2316,Bâtiments de location acquisition,2,4,8
+2321,Bâtiments industriels,2,4,8
+2322,Bâtiments agricoles,2,4,8
+2323,Bâtiments administratifs et commerciaux,2,4,8
+2324,Bâtiments affectés au logement du personnel,2,4,8
+2325,Immeubles de placement,2,4,8
+2326,Bâtiment de location-acquisition,2,4,8
+2331,Voies de terre,2,4,8
+2332,Voies de fer,2,4,8
+2333,Voies d'eau,2,4,8
+2334,"Barrages, Digues",2,4,8
+2335,Pistes d'aérodrome,2,4,8
+2338,Autres,2,4,8
+2341,Installations complexes spécialisées sur sol propre,2,4,8
+2342,Installations complexes spécialisées sur sol d'autrui,2,4,8
+2343,Installations à caractère spécifique sur sol propre,2,4,8
+2344,Installations à caractère spécifique sur sol d'autrui,2,4,8
+2345,Aménagements et agencements des bâtiments,2,4,8
+2351,Installations générales,2,4,8
+2358,Autres,2,4,9
+2391,Bâtiments en cours,2,4,9
+2392,Installations en cours,2,4,9
+2393,Aménagements et agencements,2,4,9
+2411,Matériel industriel,2,4,9
+2412,Outillage industriel,2,4,9
+2413,Matériel commercial,2,4,9
+2414,Outillage commercial,2,4,9
+2416,Matériel et outillage de location acquisition,2,4,9
+2421,Matériel agricole,2,4,9
+2422,Outillage agricole,2,4,9
+2426,Matériel et outillage agricole de location – acquisition,2,4,9
+2441,Matériel de bureau,2,4,9
+2442,Matériel informatique,2,4,9
+2443,Matériel bureautique,2,4,9
+2444,Mobilier de bureau,2,4,9
+2446,Matériel et mobilier de location- acquisition,2,4,9
+2447,Matériel et mobilier des logements affectés au personnel,2,4,9
+2451,Matériel automobile,2,4,9
+2452,Matériel ferroviaire,2,4,9
+2453,"Matériel fluvial, lagunaire",2,4,9
+2454,Matériel naval,2,4,9
+2455,Matériel aérien,2,4,9
+2456,Matériel de transport de location-acquisition,2,4,9
+2457,Matériel hippomobile,2,4,9
+2458,"Autres (vélo, mobylette, moto)",2,4,9
+2461,"Cheptel, animaux de trait",2,4,9
+2462,"Cheptel, animaux reproducteurs",2,4,9
+2463,Animaux de garde,2,4,9
+2465,Plantations agricoles,2,4,9
+2468,Autres,2,4,9
+2471,Agencements et aménagements du matériel,2,4,9
+2472,Agencements et aménagements des actifs biologiques,2,4,9
+2481,Collections et œuvres d'art,2,4,9
+2491,Matériel et outillage industriel et commercial,2,4,9
+2492,Matériel et outillage agricole,2,4,9
+2493,Matériel d'emballage récupérable et identifiable,2,4,9
+2494,Matériel et mobilier de bureau,2,4,9
+2495,Matériel de transport,2,4,9
+2496,Actifs biologiques,2,4,9
+2497,Agencements et aménagements du matériel et des actifs biologiques,2,4,9
+2498,Autres matériels,2,4,9
+2711,Prêts participatifs,2,4,9
+2712,Prêts aux associés,2,4,9
+2713,Billets de fonds,2,4,9
+2714,Créances de location financement,2,4,9
+2715,Titres prêtés,2,4,9
+2721,Prêts immobiliers,2,4,9
+2722,Prêts mobiliers et d'installation,2,4,9
+2728,Autres prêts (frais d'études),2,4,9
+2731,Retenues de garantie,2,4,9
+2733,Fonds réglementé,2,4,10
+2734,Créances sur le concédant,2,4,10
+2738,Autres,2,4,10
+2741,Titres immobilisés de l'activité de portefeuille (T.I.A.P .),2,4,10
+2742,Titres participatifs,2,4,10
+2743,Certificats d'investissement,2,4,10
+2744,Parts de fonds commun de placement (F .C.P .),2,4,10
+2745,Obligations,2,4,10
+2746,Actions ou parts propres,2,4,10
+2748,Autres titres immobilisés,2,4,10
+2751,Dépôts pour loyers d'avance,2,4,10
+2752,Dépôts pour l'électricité,2,4,10
+2753,Dépôts pour l'eau,2,4,10
+2754,Dépôts pour le gaz,2,4,10
+2755,"Dépôts pour le téléphone, le télex, la télécopie",2,4,10
+2756,Cautionnements sur marchés publics,2,4,10
+2757,Cautionnements sur autres opérations,2,4,10
+2758,Autres dépôts et cautionnements,2,4,10
+2761,Prêts et créances non commerciales,2,4,10
+2762,Prêts au personnel,2,4,10
+2763,Créances sur l'Etat,2,4,10
+2764,Titres immobilisés,2,4,10
+2765,Dépôts et cautionnements versés,2,4,10
+2766,Créances de location financement,2,4,10
+2767,Créances rattachées à des participations,2,4,10
+2768,Immobilisations financières diverses,2,4,10
+2771,Créances rattachées à des participations (groupe),2,4,10
+2772,Créances rattachées à des participations (hors groupe),2,4,10
+2773,Créances rattachées à des sociétés en participation,2,4,10
+2774,Avances à des groupements d'intérêt économique (G.I.E.),2,4,10
+2781,Créances diverses groupe,2,4,10
+2782,Créances diverses hors groupe,2,4,10
+2784,Banques dépôt à terme,2,4,10
+2785,Or et métaux précieux (1),2,4,10
+2811,Amortissements des frais de développement,2,4,10
+2812,"Amortissements des brevets, licences, concessions et droits similaires",2,4,10
+2813,Amortissements des logiciels et sites internet,2,4,10
+2814,Amortissements des marques,2,4,10
+2815,Amortissements du fonds commercial,2,4,10
+2816,Amortissements du droit au bail,2,4,10
+2817,Amortissements des investissements de création,2,4,10
+2818,Amortissements des autres droits et valeurs incorporels,2,4,10
+2821,Amortissements des terrains agricoles et forestiers,2,4,10
+2824,Amortissements des travaux de mise en valeur des terrains,2,4,10
+2825,Amortissements des terrains de gisement,2,4,10
+2831,"Amortissements des bâtiments industriels, agricoles, administratifs et commerciaux sur sol propre",2,4,10
+2832,"Amortissements des bâtiments industriels, agricoles, administratifs et commerciaux sur sol d'autrui",2,4,10
+2833,Amortissements des ouvrages d'infrastructure,2,4,10
+2834,"Amortissements des aménagements, agencements et installations techniques",2,4,10
+2835,Amortissements des aménagements de bureaux,2,4,11
+2837,"Amortissements de bâtiments industriels, agricoles et commerciaux mis en concession",2,4,11
+2838,Amortissements des autres installations et agencements,2,4,11
+2841,Amortissements du matériel et outillage industriel et commercial,2,4,11
+2842,Amortissements du matériel et outillage agricole,2,4,11
+2843,Amortissements du matériel d'emballage récupérable et identifiable,2,4,11
+2844,Amortissements du matériel et mobilier,2,4,11
+2845,Amortissements du matériel de transport,2,4,11
+2846,Amortissements des actifs biologiques,2,4,11
+2847,Amortissements des agencements et aménagements du matériel et des actifs biologiques,2,4,11
+2848,Amortissements des autres matériels,2,4,11
+2911,Dépréciations des frais de développement,2,4,11
+2912,"Dépréciations des brevets, licences, marques concessions et droits similaires",2,4,11
+2913,Dépréciations des logiciels et sites internet,2,4,11
+2914,Dépréciations des marques,2,4,11
+2915,Dépréciations du fonds commercial,2,4,11
+2916,Dépréciations du droit au bail,2,4,11
+2917,Dépréciations des investissements de création,2,4,11
+2918,Dépréciations des autres droits et valeurs incorporels,2,4,11
+2919,Dépréciations des immobilisations incorporelles en cours,2,4,11
+2921,Dépréciations des terrains agricoles et forestiers,2,4,11
+2922,Dépréciations des terrains nus,2,4,11
+2923,Dépréciations des terrains bâtis,2,4,11
+2924,Dépréciations des travaux de mise en valeur des terrains,2,4,11
+2925,Dépréciations des terrains de gisement,2,4,11
+2926,Dépréciations des terrains aménagés,2,4,11
+2927,Dépréciations des terrains mis en concession,2,4,11
+2928,Dépréciations des autres terrains,2,4,11
+2929,Dépréciations des aménagements de terrains en cours,2,4,11
+2931,"Dépréciations des bâtiments industriels, agricoles, administratifs et commerciaux sur sol propre",2,4,11
+2932,"Dépréciations des bâtiments industriels, agricoles, administratifs et commerciaux sur sol d'autrui",2,4,11
+2933,Dépréciations des ouvrages d'infrastructures,2,4,11
+2934,"Dépréciations des aménagements, agencements et installations techniques",2,4,11
+2935,Dépréciations des aménagements de bureaux,2,4,11
+2937,"Dépréciations des bâtiments industriels, agricoles et commerciaux mis en concession",2,4,11
+2938,Dépréciations des autres installations et agencements,2,4,11
+2939,Dépréciations des bâtiments et installations en cours,2,4,11
+2941,Dépréciations du matériel et outillage industriel et commercial,2,4,11
+2942,Dépréciations du matériel et outillage agricole,2,4,11
+2943,Dépréciations du matériel d'emballage récupérable et identifiable,2,4,11
+2944,Dépréciations du matériel et mobilier,2,4,11
+2945,Dépréciations du matériel de transport,2,4,11
+2946,Dépréciations des actifs biologiques,2,4,11
+2947,Dépréciations des agencements et aménagements du matériel et des actifs biologiques,2,4,11
+2948,Dépréciations des autres matériels,2,4,11
+2949,Dépréciations du matériel en cours,2,4,11
+2951,Dépréciations des avances et acomptes versés sur immobilisations incorporelles,2,4,11
+2952,Dépréciations des avances et acomptes versés sur immobilisations corporelles,2,4,12
+2961,Dépréciations des titres de participation dans des sociétés sous contrôle exclusif,2,4,12
+2962,Dépréciations des titres de participation dans les sociétés sous contrôle conjoint,2,4,12
+2963,Dépréciations des titres de participation dans les sociétés conférant une influence notable,2,4,12
+2965,Dépréciations des participations dans des organismes professionnels,2,4,12
+2966,Dépréciations des parts dans des G.I.E.,2,4,12
+2968,Dépréciations des autres titres de participation,2,4,12
+2971,Dépréciations des prêts et créances,2,4,12
+2972,Dépréciations des prêts au personnel,2,4,12
+2973,Dépréciations des créances sur l'Etat,2,4,12
+2974,Dépréciations des titres immobilisés,2,4,12
+2975,Dépréciations des dépôts et cautionnements versés,2,4,12
+2977,Dépréciations des créances rattachées à des participations et avances à des G.I.E.,2,4,12
+2978,Dépréciations des créances financières diverses,2,4,12
+31,Marchandises,3,2,12
+32,Matières premières et fournitures liées,3,2,12
+33,FOURNITURES D'ATELIER ET D'USINE,3,2,12
+34,Produits en cours,3,2,12
+35,Services en cours,3,2,12
+36,Produits finis,3,2,12
+37,Produits intermédiaires et résiduels,3,2,12
+38,"Stocks en cours de route, en consignation ou en dépôt",3,2,12
+39,Dépréciations des stocks et encours de production,3,2,12
+311,MARCHANDISES A,3,3,12
+312,MARCHANDISES B,3,3,12
+318,MARCHANDISES HORS ACTIVITES ORDINAIRES (H.A.O.),3,3,12
+321,MATIERES A,3,3,12
+322,MATIERES B,3,3,12
+323,"FOURNITURES (A, B)",3,3,12
+331,MATIERES CONSOMMABLES,3,3,12
+333,FOURNITURES DE MAGASIN,3,3,12
+334,FOURNITURES DE BUREAU,3,3,12
+335,EMBALLAGES,3,3,12
+338,AUTRES MATIERES,3,3,12
+341,PRODUITS EN COURS,3,3,12
+342,TRAVAUX EN COURS,3,3,12
+343,PRODUITS INTERMEDIAIRES EN COURS,3,3,12
+344,PRODUITS RESIDUELS EN COURS,3,3,12
+351,ETUDES EN COURS,3,3,12
+352,PRESTATIONS DE SERVICES EN COURS,3,3,12
+361,PRODUITS FINIS A,3,3,12
+362,PRODUITS FINIS B,3,3,12
+371,PRODUITS INTERMEDIAIRES,3,3,12
+372,PRODUITS RESIDUELS,3,3,12
+381,MARCHANDISES EN COURS DE ROUTE,3,3,12
+382,MATIERES PREMIERES ET FOURNITURES LIEES EN COURS DE ROUTE,3,3,12
+383,AUTRES APPROVISIONNEMENTS EN COURS DE ROUTE,3,3,12
+386,PRODUITS FINIS EN COURS DE ROUTE,3,3,13
+387,STOCK EN CONSIGNATION OU EN DEPÔT,3,3,13
+388,STOCK PROVENANT D'IMMOBILISATIONS MISES HORS SERVICE OU AU REBUT,3,3,13
+391,DEPRECIATIONS DES STOCKS DE MARCHANDISES,3,3,13
+392,DEPRECIATIONS DES STOCKS DE MATIERES PREMIERES ET FOURNITURES LIEES,3,3,13
+393,DEPRECIATIONS DES STOCKS D'AUTRES APPROVISIONNEMENTS,3,3,13
+394,DEPRECIATIONS DES PRODUITS EN COURS,3,3,13
+395,DEPRECIATIONS DES SERVICES EN COURS,3,3,13
+396,DEPRECIATIONS DES STOCKS DE PRODUITS FINIS,3,3,13
+397,DEPRECIATIONS DES STOCKS DE PRODUITS INTERMEDIAIRES ET RESIDUELS,3,3,13
+398,"DEPRECIATIONS DES STOCKS EN COURS DE ROUTE, EN CONSIGNATION OU EN DEPÔT",3,3,13
+3111,Marchandises A1,3,4,13
+3112,Marchandises A2,3,4,13
+3121,Marchandises B1,3,4,13
+3122,Marchandises B2,3,4,13
+3351,Emballages perdus,3,4,13
+3352,Emballages récupérables non identifiables,3,4,13
+3353,Emballages à usage mixte,3,4,13
+3358,Autres emballages,3,4,13
+3411,Produits en cours P1,3,4,13
+3412,Produits en cours P2,3,4,13
+3421,Travaux en cours T1,3,4,13
+3422,Travaux en cours T2,3,4,13
+3431,Produits intermédiaires A,3,4,13
+3432,Produits intermédiaires B,3,4,13
+3441,Produits résiduels A,3,4,13
+3442,Produits résiduels B,3,4,13
+3511,Etudes en cours E1,3,4,13
+3512,Etudes en cours E2,3,4,13
+3521,Prestations de services S1,3,4,13
+3522,Prestations de services S2,3,4,13
+3711,Produits intermédiaires A,3,4,13
+3712,Produits intermédiaires B,3,4,13
+3721,Déchets,3,4,13
+3722,Rebuts,3,4,13
+3723,Matières de récupération,3,4,13
+3871,Stock en consignation,3,4,13
+3872,Stock en dépôt,3,4,13
+40,Fournisseurs et comptes rattachés,4,2,13
+41,Clients et comptes rattachés,4,2,13
+42,Personnel,4,2,13
+43,Organismes sociaux,4,2,13
+44,Etat et Collectivités publiques,4,2,13
+45,Organismes internationaux,4,2,13
+46,"Apporteurs, Associés et Groupe",4,2,13
+47,Débiteurs et créditeurs divers,4,2,13
+48,Créances et dettes hors activités ordinaires,4,2,13
+49,Dépréciations et provisions pour risques à court terme (Tiers),4,2,13
+401,"FOURNISSEURS, DETTES EN COMPTE",4,3,14
+402,"FOURNISSEURS, EFFETS A PAYER",4,3,14
+408,"FOURNISSEURS, FACTURES NON PARVENUES",4,3,14
+409,FOURNISSEURS DEBITEURS,4,3,14
+411,CLIENTS,4,3,14
+412,"CLIENTS, EFFETS A RECEVOIR EN PORTEFEUILLE",4,3,14
+414,CREANCES SUR CESSIONS COURANTES D'IMMOBILISATIONS,4,3,14
+415,"CLIENTS, EFFETS ESCOMPTES NON ECHUS",4,3,14
+416,CREANCES CLIENTS LITIGIEUSES OU DOUTEUSES,4,3,14
+418,"CLIENTS, PRODUITS A RECEVOIR",4,3,14
+419,CLIENTS CREDITEURS,4,3,14
+421,"PERSONNEL, AVANCES ET ACOMPTES",4,3,14
+422,"PERSONNEL, REMUNERATIONS DUES",4,3,14
+423,"PERSONNEL, OPPOSITIONS, SAISIES-ARRÊTS",4,3,14
+424,"PERSONNEL,ŒUVRES SOCIALES INTERNES",4,3,14
+425,REPRESENTANTS DU PERSONNEL,4,3,14
+426,"PERSONNEL, PARTICIPATION AUX BENEFICES ET AU CAPITAL",4,3,14
+427,PERSONNEL-DEPÔTS,4,3,14
+428,"PERSONNEL, CHARGES A PAYER ET PRODUITS A RECEVOIR",4,3,14
+431,SECURITE SOCIALE,4,3,14
+432,CAISSES DE RETRAITE COMPLEMENTAIRE,4,3,14
+433,AUTRES ORGANISMES SOCIAUX,4,3,14
+438,"ORGANISMES SOCIAUX, CHARGES A PAYER ET PRODUITS A RECEVOIR",4,3,14
+441,"ETAT, IMPÔT SUR LES BENEFICES",4,3,14
+442,"ETAT, AUTRES IMPÔTS ET TAXES",4,3,14
+443,"ETAT, T.V.A. FACTUREE",4,3,14
+444,"ETAT, T.V.A. DUE OU CREDIT DE T.V.A.",4,3,14
+445,"ETAT, T.V.A. RECUPERABLE",4,3,14
+446,"ETAT, AUTRES TAXES SUR LE CHIFFRE D'AFFAIRES",4,3,14
+447,"ETAT, IMPÔTS RETENUS A LA SOURCE",4,3,14
+448,"ETAT, CHARGES A PAYER ET PRODUITS A RECEVOIR",4,3,14
+449,"ETAT, CREANCES ET DETTES DIVERSES",4,3,14
+451,OPERATIONS AVEC LES ORGANISMES AFRICAINS,4,3,14
+452,OPERATIONS AVEC LES AUTRES ORGANISMES INTERNATIONAUX,4,3,14
+458,"ORGANISMES INTERNATIONAUX, FONDS DE DOTATION ET SUBVENTIONS A RECEVOIR",4,3,14
+461,"APPORTEURS, OPERATIONS SUR LE CAPITAL",4,3,14
+462,"ASSOCIES(1), COMPTES COURANTS",4,3,14
+463,"ASSOCIES(1), OPERATIONS FAITES EN COMMUN",4,3,14
+465,"ASSOCIES(1), DIVIDENDES A PAYER",4,3,14
+466,"GROUPE, COMPTES COURANTS",4,3,14
+467,"APPORTEURS, RESTANT DÛ SUR CAPITAL APPELE",4,3,14
+471,DEBITEURS ET CREDITEURS DIVERS,4,3,14
+472,VERSEMENTS RESTANT A EFFECTUER SUR TITRES DE PLACEMENT NON LIBERES,4,3,14
+473,INTERMEDIAIRES – OPERATIONS FAITES POUR LE COMPTE DE TIERS,4,3,14
+474,REPARTITION PERIODIQUE DES CHARGES ET DES PRODUITS,4,3,14
+475,"COMPTE TRANSITOIRE, AJUSTEMENT SPECIAL LIE A LA REVISION SYSCOHADA",4,3,14
+476,CHARGES CONSTATEES D'AVANCE,4,3,14
+477,PRODUITS CONSTATES D'AVANCE,4,3,14
+478,ECARTS DE CONVERSION-ACTIF,4,3,14
+479,ECARTS DE CONVERSION- PASSIF,4,3,14
+481,FOURNISSEURS D'INVESTISSEMENTS,4,3,14
+482,FOURNISSEURS D'INVESTISSEMENTS EFFETS A PAYER,4,3,15
+484,AUTRES DETTES HORS ACTIVITES ORDINAIRES (H.A.O.),4,3,15
+485,CREANCES SUR CESSIONS D'IMMOBILISATIONS,4,3,15
+488,AUTRES CREANCES HORS ACTIVITES ORDINAIRES (H.A.O.),4,3,15
+490,DÉPRÉCIATIONS DES COMPTES FOURNISSEURS,4,3,15
+491,DEPRECIATIONS DES COMPTES CLIENTS,4,3,15
+492,DEPRECIATIONS DES COMPTES PERSONNEL,4,3,15
+493,DEPRECIATIONS DES COMPTES ORGANISMES SOCIAUX,4,3,15
+494,DÉPRÉCIATIONS DES COMPTES ÉTAT ET COLLECTIVITÉS PUBLIQUES,4,3,15
+495,DEPRECIATIONS DES COMPTES ORGANISMES INTERNATIONAUX,4,3,15
+496,DEPRECIATIONS DES COMPTES APPORTEURS ASSOCIES ET GROUPE,4,3,15
+497,DEPRECIATIONS DES COMPTES DEBITEURS DIVERS,4,3,15
+498,DEPRECIATIONS DES COMPTES DE CREANCES H.A.O.,4,3,15
+499,PROVISIONS POUR RISQUES A COURT TERME,4,3,15
+4011,Fournisseurs,4,4,15
+4012,Fournisseurs-Groupe,4,4,15
+4013,Fournisseurs sous-traitants,4,4,15
+4017,"Fournisseurs, retenues de garantie",4,4,15
+4021,"Fournisseurs, Effets à payer",4,4,15
+4022,"Fournisseurs-Groupe, Effets à payer",4,4,15
+4023,"Fournisseurs sous-traitants, Effets à payer",4,4,15
+4081,Fournisseurs,4,4,15
+4082,Fournisseurs-Groupe,4,4,15
+4083,Fournisseurs sous-traitants,4,4,15
+4086,"Fournisseurs, intérêts courus",4,4,15
+4091,"Fournisseurs, avances et acomptes versés",4,4,15
+4092,"Fournisseurs-Groupe, avances et acomptes versés",4,4,15
+4093,"Fournisseurs sous-traitants, avances et acomptes versés",4,4,15
+4094,"Fournisseurs, créances pour emballages et matériels à rendre",4,4,15
+4098,"Rabais, Remises, Ristournes et autres avoirs à obtenir",4,4,15
+4111,Clients,4,4,15
+4112,Clients-Groupe,4,4,15
+4114,"Clients, Etat et collectivités publiques",4,4,15
+4115,"Clients, organismes internationaux",4,4,15
+4116,Clients ventes avec réserves de propriété,4,4,15
+4117,"Clients, retenues de garantie",4,4,15
+4118,"Clients, dégrèvements de Taxes sur la Valeur Ajoutée (T.V.A.)",4,4,15
+4121,"Clients, Effets à recevoir",4,4,15
+4122,"Clients-Groupe, Effets à recevoir",4,4,15
+4124,"Etat et collectivités publiques, Effets à recevoir",4,4,15
+4125,"Organismes internationaux, Effets à recevoir",4,4,15
+4126,"412 · Clients, effets a recevoir en portefeuille clients ventes avec réserves de propriété, effets à recevoir",4,4,15
+4141,Créances en compte,4,4,15
+4142,Effets à recevoir,4,4,15
+4161,Créances litigieuses,4,4,15
+4162,Créances douteuses,4,4,15
+4181,"Clients, factures à établir",4,4,15
+4186,"Clients, intérêts courus",4,4,15
+4191,"Clients, avances et acomptes reçus",4,4,15
+4192,"Clients-Groupe, avances et acomptes reçus",4,4,15
+4194,"Clients, dettes pour emballages et matériels consignés",4,4,16
+4198,"Rabais, Remises, Ristournes et autres avoirs à accorder",4,4,16
+4211,"Personnel, avances",4,4,16
+4212,"Personnel, acomptes",4,4,16
+4213,Frais avancés et fournitures au personnel,4,4,16
+4231,"Personnel, oppositions",4,4,16
+4232,"Personnel, saisies-arrêts",4,4,16
+4233,"Personnel, avis à tiers détenteur",4,4,16
+4241,Assistance médicale,4,4,16
+4242,Allocations familiales,4,4,16
+4245,Organismes sociaux rattachés à l'entité,4,4,16
+4248,Autres œuvres sociales internes,4,4,16
+4251,Délégués du personnel,4,4,16
+4252,"Syndicats et Comités d'entreprise, d'établissement",4,4,16
+4258,Autres représentants du personnel,4,4,16
+4261,Participation aux bénéfices,4,4,16
+4264,Participation au capital,4,4,16
+4281,Dettes provisionnées pour congés à payer,4,4,16
+4286,Autres charges à payer,4,4,16
+4287,Produits à recevoir,4,4,16
+4311,Prestations familiales,4,4,16
+4312,Accidents du travail,4,4,16
+4313,Caisse de retraite obligatoire,4,4,16
+4314,Caisse de retraite facultative,4,4,16
+4318,Autres cotisations sociales,4,4,16
+4331,Mutuelle,4,4,16
+4332,Assurances retraite,4,4,16
+4333,Assurances et organismes de santé,4,4,16
+4381,Charges sociales sur gratifications à payer,4,4,16
+4382,Charges sociales sur congés à payer,4,4,16
+4386,Autres charges à payer,4,4,16
+4387,Produits à recevoir,4,4,16
+4421,Impôts et taxes d'Etat,4,4,16
+4422,Impôts et taxes pour les collectivités publiques,4,4,16
+4423,Impôts et taxes recouvrables sur des obligataires,4,4,16
+4424,Impôts et taxes recouvrables sur des associés,4,4,16
+4426,Droits de douane,4,4,16
+4428,Autres impôts et taxes,4,4,16
+4431,T.V.A. facturée sur ventes,4,4,16
+4432,T.V.A. facturée sur prestations de services,4,4,16
+4433,T.V.A. facturée sur travaux,4,4,16
+4434,T.V.A. facturée sur production livrée à soi-même,4,4,16
+4435,T.V.A. sur factures à établir,4,4,16
+4441,"Etat, T.V.A. due",4,4,16
+4449,"Etat, crédit de T.V.A. à reporter",4,4,16
+4451,T.V.A. récupérable sur immobilisations,4,4,16
+4452,T.V.A. récupérable sur achats,4,4,16
+4453,T.V.A. récupérable sur transport,4,4,16
+4454,T.V.A. récupérable sur services extérieurs et autres charges,4,4,16
+4455,T.V.A. récupérable sur factures non parvenues,4,4,16
+4456,T.V.A. transférée par d'autres entités,4,4,16
+4471,Impôt général sur le revenu,4,4,17
+4472,Impôts sur salaires,4,4,17
+4473,Contribution nationale,4,4,17
+4474,Contribution nationale de solidarité,4,4,17
+4478,Autres impôts et contributions,4,4,17
+4486,Charges à payer,4,4,17
+4487,Produits à recevoir,4,4,17
+4491,"Etat, obligations cautionnées",4,4,17
+4492,"Etat, avances et acomptes versés sur impôts",4,4,17
+4493,"Etat, fonds de dotation à recevoir",4,4,17
+4494,"Etat, subventions d'équipement à recevoir",4,4,17
+4495,"Etat, subventions d'exploitation à recevoir",4,4,17
+4496,"Etat, subventions d'équilibre à recevoir",4,4,17
+4497,Etat avances sur subventions,4,4,17
+4499,"Etat, fonds réglementé provisionné",4,4,17
+4581,"Organismes internationaux, fonds de dotation à recevoir",4,4,17
+4582,"Organismes internationaux, subventions à recevoir",4,4,17
+4611,"Apporteurs, apports en nature",4,4,17
+4612,"Apporteurs, apports en numéraire",4,4,17
+4613,"Apporteurs, capital souscrit appelé non versé",4,4,17
+4614,"Apporteurs, capital appelé non versé",4,4,17
+4615,"Apporteurs, versements reçus sur augmentation de capital",4,4,17
+4616,"Apporteurs, versements anticipés",4,4,17
+4617,Apporteurs défaillants,4,4,17
+4618,"Apporteurs, autres apports",4,4,17
+4619,"Apporteurs, capital à rembourser",4,4,17
+4621,Principal,4,4,17
+4626,Intérêts courus,4,4,17
+4711,Débiteurs divers,4,4,17
+4712,Créditeurs divers,4,4,17
+4713,Obligataires,4,4,17
+4714,Créances sur cessions de titres de placement,4,4,17
+4715,Rémunérations d'administrateurs,4,4,17
+4716,Compte du factor,4,4,17
+4717,Débiteurs divers- retenues de garantie,4,4,17
+4718,"Apport, compte de restructuration",4,4,17
+4719,Bons de souscription d'actions et d'obligations,4,4,17
+4731,Mandants,4,4,17
+4732,Mandataires,4,4,17
+4733,Commettants,4,4,17
+4734,Commissionnaires,4,4,17
+4746,Charges,4,4,17
+4747,Produits,4,4,17
+4751,Compte actif,4,4,17
+4752,Compte passif,4,4,17
+4781,Diminution des créances,4,4,17
+4782,Augmentation des dettes,4,4,17
+4788,Différences compensées par couverture de change,4,4,17
+4791,Augmentation des créances,4,4,17
+4792,Diminution des dettes,4,4,17
+4798,Différences compensées par couverture de change,4,4,17
+4811,Immobilisations incorporelles,4,4,18
+4812,Immobilisations corporelles,4,4,18
+4813,Versements restant à effectuer sur titres de participation et titres immobilisés non libérés,4,4,18
+4817,Retenues de garantie,4,4,18
+4818,Factures non parvenues,4,4,18
+4851,485 · Creances sur cessions d’immobilisations en compte,4,4,18
+4852,Effets à recevoir,4,4,18
+4857,Retenues de garantie,4,4,18
+4858,Factures à établir,4,4,18
+4911,Créances litigieuses,4,4,18
+4912,Créances douteuses,4,4,18
+4962,"Associés, comptes courants",4,4,18
+4963,"Associés, opérations faites en commun",4,4,18
+4966,"Groupe, comptes courants",4,4,18
+4981,Créances sur cessions d'immobilisations,4,4,18
+4982,Créances sur cessions de titres de placement,4,4,18
+4983,Autres créances H.A.O.,4,4,18
+4991,499 · Provisions pour risques a court terme sur opérations d'exploitation,4,4,18
+4998,499 · Provisions pour risques a court terme sur opérations H.A.O.,4,4,18
+50,Titres de placement,5,2,18
+51,Valeurs à encaisser,5,2,18
+52,Banques,5,2,18
+53,Etablissements financiers et assimilés,5,2,18
+54,Instrument de trésorerie est crédité par le débit du compte de la classe 6. Cette perte est étalée au prorata de la comptabilisation des produits et charges de l'élément couvert par le biais du compte 476,5,2,18
+55,Instruments de monnaie électronique,5,2,18
+56,"Banques, crédits de trésorerie et d'escompte",5,2,18
+57,Caisse,5,2,18
+58,"Régies d'avances, accréditifs et virements internes",5,2,18
+59,Dépréciations et provisions pour risques à court terme (Trésorerie),5,2,18
+501,TITRES DU TRESOR ET BONS DE CAISSE A COURT TERME,5,3,18
+502,ACTIONS,5,3,18
+503,OBLIGATIONS,5,3,18
+504,BONS DE SOUSCRIPTION,5,3,18
+505,TITRES NEGOCIABLES HORS REGION,5,3,18
+506,INTERÊTS COURUS,5,3,18
+508,AUTRES VALEURS ASSIMILEES,5,3,18
+511,EFFETS A ENCAISSER,5,3,18
+512,EFFETS A L'ENCAISSEMENT,5,3,18
+513,CHEQUES A ENCAISSER,5,3,18
+514,CHEQUES A L'ENCAISSEMENT,5,3,18
+515,CARTES DE CREDIT A ENCAISSER,5,3,18
+518,AUTRES VALEURS A L'ENCAISSEMENT,5,3,18
+521,BANQUES LOCALES,5,3,18
+522,BANQUES AUTRES ETATS REGION,5,3,19
+523,BANQUES AUTRES ETATS ZONE MONETAIRE,5,3,19
+524,BANQUES HORS ZONE MONETAIRE,5,3,19
+525,BANQUES DEPOT A TERME,5,3,19
+526,"BANQUES, INTERET COURUS",5,3,19
+531,CHEQUES POSTAUX,5,3,19
+532,TRESOR,5,3,19
+533,SOCIETES DE GESTION ET D'INTERMEDIATION (S.G.I.),5,3,19
+536,"ETABLISSEMENTS FINANCIERS, INTERETS COURUS",5,3,19
+538,AUTRES ORGANISMES FINANCIERS,5,3,19
+541,OPTIONS DE TAUX D'INTERÊT,5,3,19
+542,OPTIONS DE TAUX DE CHANGE,5,3,19
+543,OPTIONS DE TAUX BOURSIERS,5,3,19
+544,INSTRUMENTS DE MARCHES A TERME,5,3,19
+545,AVOIRS D'OR ET AUTRES METAUX PRECIEUX(1),5,3,19
+551,MONNAIE ELECTRONIQUE- CARTE CARBURANT,5,3,19
+552,MONNAIE ELECTRONIQUE- TELEPHONE PORTABLE,5,3,19
+553,MONNAIE ELECTRONIQUE- CARTE PEAGE,5,3,19
+554,PORTE-MONNAIE ELECTRONIQUE,5,3,19
+558,AUTRES INSTRUMENTS DE MONNAIE ELECTRONIQUE,5,3,19
+561,CREDITS DE TRESORERIE,5,3,19
+564,ESCOMPTE DE CREDITS DE CAMPAGNE,5,3,19
+565,ESCOMPTE DE CREDITS ORDINAIRES,5,3,19
+566,"CREDITS DE TRESORERIE, INTERETS COURUS",5,3,19
+571,CAISSE SIEGE SOCIAL,5,3,19
+572,CAISSE SUCCURSALE A,5,3,19
+573,CAISSE SUCCURSALE B,5,3,19
+581,REGIES D'AVANCE,5,3,19
+582,ACCREDITIFS,5,3,19
+585,VIREMENTS DE FONDS,5,3,19
+588,AUTRES VIREMENTS INTERNES,5,3,19
+590,DÉPRÉCIATIONS DES TITRES DE PLACEMENT,5,3,19
+591,DEPRECIATIONS DES TITRES ET VALEURS A ENCAISSER,5,3,19
+592,DEPRECIATIONS DES COMPTES BANQUES,5,3,19
+593,DEPRECIATIONS DES COMPTES ETABLISSEMENTS FINANCIERS ET ASSIMILES,5,3,19
+594,DEPRECIATIONS DES COMPTES D'INSTRUMENTS DE TRESORERIE,5,3,19
+599,PROVISIONS POUR RISRQUES A COURT TERME A CARACTERE FINANCIER,5,3,19
+5011,Titres du Trésor à court terme,5,4,19
+5012,Titres d'organismes financiers,5,4,19
+5013,Bons de caisse à court terme,5,4,19
+5016,Frais d'acquisition des titres du trésor et bons de caisse,5,4,19
+5021,Actions ou parts propres,5,4,19
+5022,Actions cotées,5,4,19
+5023,Actions non cotées,5,4,19
+5024,Actions démembrées (certificats d'investissement ; droits de vote),5,4,19
+5025,Autres actions,5,4,19
+5026,Frais d'acquisition des actions,5,4,19
+5031,Obligations émises par la société et rachetées par elle,5,4,19
+5032,Obligations cotées,5,4,19
+5033,Obligations non cotées,5,4,19
+5035,Autres obligations,5,4,19
+5036,Frais d'acquisition des obligations,5,4,20
+5042,Bons de souscription d'actions,5,4,20
+5043,Bons de souscription d'obligations,5,4,20
+5061,Titres du Trésor et bons de caisse à court terme,5,4,20
+5062,Actions,5,4,20
+5063,Obligations,5,4,20
+5181,Warrants,5,4,20
+5182,Billets de fonds,5,4,20
+5185,Chèques de voyage,5,4,20
+5186,Coupons échus,5,4,20
+5187,Intérêts échus des obligations,5,4,20
+5211,Banque X,5,4,20
+5212,Banque Y,5,4,20
+5361,"Etablissements financiers, intérêts courus, charges à payer",5,4,20
+5367,"Etablissements financiers, intérêts courus produits à recevoir",5,4,20
+5561,"Banques, intérêts courus, charges à payer",5,4,20
+5667,"Banques, intérêts courus, produits à recevoir",5,4,20
+5711,Caisse en monnaie nationale,5,4,20
+5712,571 · Caisse siege social en devises,5,4,20
+5721,572 · Caisse succursale a en monnaie nationale,5,4,20
+5722,572 · Caisse succursale a en devises,5,4,20
+5731,573 · Caisse succursale b en monnaie nationale,5,4,20
+5732,573 · Caisse succursale b en devises,5,4,20
+60,(sauf 603) Achats,6,2,20
+61,Transports,6,2,20
+62,SERVICES EXTÉRIEURS,6,2,20
+63,AUTRES SERVICES EXTÉRIEURS,6,2,20
+64,Impôts et taxes,6,2,20
+65,Autres charges (sauf 659),6,2,20
+66,Charges de personnel par le crédit du compte 78 – Transferts de charges.,6,2,20
+67,Frais financiers et charges assimilées,6,2,20
+68,Dotations aux amortissements,6,2,20
+69,Dotations aux provisions et aux dépréciations,6,2,20
+601,ACHATS DE MARCHANDISES (1),6,3,20
+602,ACHATS DE MATIERES PREMIERES ET FOURNITURES LIEES (1),6,3,20
+603,"Variations des stocks de biens achetés donnent la mesure des différences entre la valeur brute des stocks de biens achetés, telle qu'elle est constatée à la clôture de l'exercice, et la valeur brute correspondante à l'ouverture de l'exercice.",6,3,20
+604,ACHATS STOCKES DE MATIERES ET FOURNITURES CONSOMMABLES,6,3,20
+605,AUTRES ACHATS,6,3,20
+608,ACHATS D'EMBALLAGES,6,3,20
+612,TRANSPORTS SUR VENTES,6,3,20
+613,TRANSPORTS POUR LE COMPTE DE TIERS,6,3,20
+614,TRANSPORTS DU PERSONNEL,6,3,20
+616,TRANSPORT DE PLIS,6,3,21
+618,AUTRES FRAIS DE TRANSPORT,6,3,21
+621,SOUS-TRAITANCE GENERALE,6,3,21
+622,LOCATIONS ET CHARGES LOCATIVES,6,3,21
+623,REDEVANCES DE LOCATION ACQUISITION,6,3,21
+624,"ENTRETIEN, REPARATIONS ET MAINTENANCE",6,3,21
+625,PRIMES D'ASSURANCE,6,3,21
+626,"ETUDES, RECHERCHES ET DOCUMENTATION",6,3,21
+627,"PUBLICITE, PUBLICATIONS, RELATIONS PUBLIQUES",6,3,21
+628,FRAIS DE TELECOMMUNICATIONS,6,3,21
+631,FRAIS BANCAIRES,6,3,21
+632,REMUNERATIONS D'INTERMEDIAIRES ET DE CONSEILS,6,3,21
+633,FRAIS DE FORMATION DU PERSONNEL,6,3,21
+634,"REDEVANCES POUR BREVETS, LICENCES, MARQUES, LOGICIELS, SITES, CONCESSIONS ET DROITS ET VALEURS SIMILAIRES",6,3,21
+635,COTISATIONS,6,3,21
+637,REMUNERATIONS DE PERSONNEL EXTERIEUR A L'ENTITE,6,3,21
+638,AUTRES CHARGES EXTERNES,6,3,21
+641,IMPÔTS ET TAXES DIRECTS,6,3,21
+645,IMPÔTS ET TAXES INDIRECTS,6,3,21
+646,DROITS D'ENREGISTREMENT,6,3,21
+647,PENALITES ET AMENDES FISCALES,6,3,21
+648,AUTRES IMPÔTS ET TAXES,6,3,21
+651,PERTES SUR CREANCES CLIENTS ET AUTRES DEBITEURS,6,3,21
+652,QUOTE-PART DE RESULTAT SUR OPERATIONS FAITES EN COMMUN,6,3,21
+654,VALEURS COMPTABLES DES CESSIONS COURANTES D'IMMOBILISATIONS,6,3,21
+658,CHARGES DIVERSES,6,3,21
+659,CHARGES POUR DÉPRÉCIATIONS ET PROVISIONS POUR RISQUES A COURT TERME D'EXPLOITATION,6,3,21
+661,REMUNERATIONS DIRECTES VERSEES AU PERSONNEL NATIONAL,6,3,21
+662,REMUNERATIONS DIRECTES VERSEES AU PERSONNEL NON NATIONAL,6,3,21
+663,INDEMNITES FORFAITAIRES VERSEES AU PERSONNEL,6,3,21
+664,CHARGES SOCIALES,6,3,21
+666,RÉMUNÉRATION ET CHARGES SOCIALES DE L'EXPLOITANT INDIVIDUEL,6,3,21
+667,Rémunération transférée de personnel extérieur.,6,3,21
+668,AUTRES CHARGES SOCIALES,6,3,21
+671,INTERÊTS DES EMPRUNTS,6,3,21
+672,INTERÊTS DANS LOYERS DE LOCATION ACQUISITION,6,3,21
+673,ESCOMPTES ACCORDES,6,3,21
+674,AUTRES INTERÊTS,6,3,21
+675,ESCOMPTES DES EFFETS DE COMMERCE,6,3,21
+676,PERTES DE CHANGE,6,3,21
+677,PERTES SUR TITRES DE PLACEMENT,6,3,21
+678,PERTES SUR RISQUES FINANCIERS,6,3,21
+679,CHARGES POUR DEPRECIATIONS ET PROVISIONS POUR RISQUES A COURT TERME FINANCIERES,6,3,21
+681,DOTATIONS AUX AMORTISSEMENTS D'EXPLOITATION,6,3,21
+687,DOTATIONS AUX AMORTISSEMENTS A CARACTERE FINANCIER,6,3,21
+691,DOTATIONS AUX PROVISIONS ET AUX DEPRECIATIONS D'EXPLOITATION,6,3,21
+697,DOTATIONS AUX PROVISIONS ET AUX DEPRECIATIONS FINANCIERES,6,3,21
+6011,601 · Achats de marchandises (1) dans la Région,6,4,21
+6012,601 · Achats de marchandises (1) hors Région (1),6,4,22
+6013,601 · Achats de marchandises (1) aux entités du groupe dans la Région,6,4,22
+6014,601 · Achats de marchandises (1) aux entités du groupe hors Région,6,4,22
+6015,Frais sur achats (2),6,4,22
+6019,"Rabais, Remises et Ristournes obtenus (non ventilés)",6,4,22
+6021,602 · Achats de matieres premieres et fournitures liees (1) dans la Région (1),6,4,22
+6022,602 · Achats de matieres premieres et fournitures liees (1) hors Région,6,4,22
+6023,602 · Achats de matieres premieres et fournitures liees (1) aux entités du groupe dans la Région,6,4,22
+6024,602 · Achats de matieres premieres et fournitures liees (1) aux entités du groupe hors Région,6,4,22
+6025,Frais sur Achats (2),6,4,22
+6029,"Rabais, Remises et Ristournes obtenus (non ventilés)",6,4,22
+6031,Variations des stocks de marchandises,6,4,22
+6032,Variations des stocks de matières premières et fournitures liées,6,4,22
+6033,Variations des stocks d'autres approvisionnements,6,4,22
+6041,Matières consommables,6,4,22
+6042,Matières combustibles,6,4,22
+6043,Produits d'entretien,6,4,22
+6044,Fournitures d'atelier et d'usine,6,4,22
+6045,Frais sur Achats (2),6,4,22
+6046,Fournitures de magasin,6,4,22
+6047,Fournitures de bureau,6,4,22
+6049,"Rabais, Remises et Ristournes obtenus (non ventilés)",6,4,22
+6051,Fournitures non stockables-Eau,6,4,22
+6052,Fournitures non stockables- Electricité,6,4,22
+6053,Fournitures non stockables- Autres énergies,6,4,22
+6054,Fournitures d'entretien non stockables,6,4,22
+6055,Fournitures de bureau non stockables,6,4,22
+6056,Achats de petit matériel et outillage,6,4,22
+6057,Achats d'études et prestations de service,6,4,22
+6058,"Achats de travaux, matériels et équipements",6,4,22
+6059,"Rabais, Remises et Ristournes obtenus (non ventilés)",6,4,22
+6081,Emballages perdus,6,4,22
+6082,Emballages récupérables non identifiables,6,4,22
+6083,Emballages à usage mixte,6,4,22
+6085,Frais sur achats (2),6,4,22
+6089,"Rabais, Remises et Ristournes obtenus (non ventilés)",6,4,22
+6181,Voyages et déplacements,6,4,22
+6182,Transports entre établissements ou chantiers,6,4,22
+6183,Transports entre établissements ou chantiers,6,4,22
+6221,Locations de terrains,6,4,22
+6222,Locations de bâtiments,6,4,22
+6223,Locations de matériels et outillages,6,4,22
+6224,Malis sur emballages,6,4,22
+6225,Locations d'emballages,6,4,22
+6226,Fermages et loyers du foncier,6,4,22
+6228,Locations et charges locatives diverses,6,4,22
+6232,Crédit-bail immobilier,6,4,23
+6233,Crédit-bail mobilier,6,4,23
+6234,623 · Redevances de location acquisition location vente,6,4,23
+6235,Autres contrats de location acquisition,6,4,23
+6241,Entretien et réparations des biens immobiliers,6,4,23
+6242,Entretien et réparations des biens mobiliers,6,4,23
+6243,Maintenance,6,4,23
+6248,Autres entretiens et réparations,6,4,23
+6251,Assurances multirisques,6,4,23
+6252,Assurances matériel de transport,6,4,23
+6253,Assurances risques d'exploitation,6,4,23
+6254,Assurances responsabilité du producteur,6,4,23
+6255,Assurances insolvabilité clients,6,4,23
+6257,Assurances transports sur ventes,6,4,23
+6258,Autres primes d'assurances,6,4,23
+6261,Etudes et recherches,6,4,23
+6265,Documentation générale,6,4,23
+6266,Documentation technique,6,4,23
+6271,"Annonces, insertions",6,4,23
+6272,"Catalogues, imprimés publicitaires",6,4,23
+6273,Echantillons,6,4,23
+6274,Foires et expositions,6,4,23
+6275,Publications,6,4,23
+6276,Cadeaux à la clientèle,6,4,23
+6277,"Frais de colloques, séminaires, conférences",6,4,23
+6278,Autres charges de publicité et relations publiques,6,4,23
+6281,Frais de téléphone,6,4,23
+6282,Frais de télex,6,4,23
+6283,Frais de télécopie,6,4,23
+6288,Autres frais de télécommunications,6,4,23
+6311,"Frais sur titres (, vente, garde)",6,4,23
+6312,Frais sur effets,6,4,23
+6313,Location de coffres,6,4,23
+6314,Commissions d' affacturage,6,4,23
+6315,Commissions sur cartes de crédit,6,4,23
+6316,Frais d'émission d'emprunts,6,4,23
+6317,Frais sur instruments monétaires électroniques.,6,4,23
+6318,Autres frais bancaires,6,4,23
+6322,Commissions et courtages sur ventes,6,4,23
+6324,Honoraires des professions règlementées,6,4,23
+6325,Frais d'actes et de contentieux,6,4,23
+6327,Rémunérations des autres prestataires de services,6,4,23
+6328,Divers frais,6,4,23
+6342,"Redevances pour brevets, licences",6,4,23
+6343,Redevances pour logiciels,6,4,23
+6344,Redevances pour marques,6,4,23
+6345,Redevances pour sites,6,4,23
+6346,"Redevances pour concessions, droits et valeurs similaires",6,4,23
+6351,Cotisations,6,4,23
+6358,Concours divers,6,4,23
+6371,Personnel intérimaire,6,4,24
+6372,Personnel détaché ou prêté à l'entité,6,4,24
+6381,Frais de recrutement du personnel,6,4,24
+6382,Frais de déménagement,6,4,24
+6383,Réceptions,6,4,24
+6384,Missions,6,4,24
+6411,Impôts fonciers et taxes annexes,6,4,24
+6412,"Patentes, licences et taxes annexes",6,4,24
+6413,Taxes sur appointements et salaires,6,4,24
+6414,Taxes d'apprentissage,6,4,24
+6415,Formation professionnelle continue,6,4,24
+6418,Autres impôts et taxes directs,6,4,24
+6461,Droits de mutation,6,4,24
+6462,Droits de timbre,6,4,24
+6463,Taxes sur les véhicules de société,6,4,24
+6464,Vignettes,6,4,24
+6468,Autres droits,6,4,24
+6471,"Pénalités d'assiette, impôts directs",6,4,24
+6472,"Pénalités d'assiette, impôts indirects",6,4,24
+6473,"Pénalités de recouvrement, impôts directs",6,4,24
+6474,"Pénalités de recouvrement, impôts indirects",6,4,24
+6478,Autres amendes pénales et fiscales,6,4,24
+6511,Clients,6,4,24
+6515,Autres débiteurs,6,4,24
+6521,Quote-part transférée de bénéfices (comptabilité du gérant),6,4,24
+6525,Pertes imputées par transfert (comptabilité des associés non gérants),6,4,24
+6581,Indemnités de fonction et autres rémunérations d'administrateurs,6,4,24
+6582,Dons,6,4,24
+6583,Mécénat,6,4,24
+6588,Autres charges diverses,6,4,24
+6591,659 · Charges pour dépréciations et provisions pour risques a court terme d’exploitation sur risques à court terme,6,4,24
+6593,659 · Charges pour dépréciations et provisions pour risques a court terme d’exploitation sur stocks,6,4,24
+6594,659 · Charges pour dépréciations et provisions pour risques a court terme d’exploitation sur créances,6,4,24
+6598,Autres charges pour dépréciations et provisions pour risques à court terme,6,4,24
+6611,"Appointements, salaires et commissions",6,4,24
+6612,Primes et gratifications,6,4,24
+6613,Congés payés,6,4,24
+6614,"Indemnités de préavis, de licenciement et de recherche d'embauche",6,4,24
+6615,Indemnités de maladie versées aux travailleurs,6,4,24
+6616,Supplément familial,6,4,24
+6617,Avantages en nature,6,4,24
+6618,Autres rémunérations directes,6,4,24
+6621,"Appointements, salaires et commissions",6,4,24
+6622,Primes et gratifications,6,4,24
+6623,Congés payés,6,4,24
+6624,"Indemnités de préavis, de licenciement et de recherche d'embauche",6,4,24
+6625,Indemnités de maladie versées aux travailleurs,6,4,24
+6626,Supplément familial,6,4,24
+6627,Avantages en nature,6,4,25
+6628,Autres rémunérations directes,6,4,25
+6631,Indemnités de logement,6,4,25
+6632,Indemnités de représentation,6,4,25
+6633,Indemnités d'expatriation,6,4,25
+6638,Autres indemnités et avantages divers,6,4,25
+6641,Charges sociales sur rémunération du personnel national,6,4,25
+6642,Charges sociales sur rémunération du personnel non national,6,4,25
+6661,Rémunération du travail de l'exploitant,6,4,25
+6662,Charges sociales,6,4,25
+6671,Personnel intérimaire,6,4,25
+6672,Personnel détaché ou prêté à l'entité,6,4,25
+6681,"Versements aux Syndicats et Comités d'entreprise, d'établissement",6,4,25
+6682,Versements aux Comités d'hygiène et de sécurité,6,4,25
+6683,Versements aux autres œuvres sociales,6,4,25
+6684,Médecine du travail et pharmacie,6,4,25
+6685,Assurances et organismes de santé,6,4,25
+6686,Assurances retraite et fonds de pension,6,4,25
+6711,Emprunts obligataires,6,4,25
+6712,Emprunts auprès des établissements de crédit,6,4,25
+6713,Dettes liées à des participations,6,4,25
+6714,Primes de remboursement des obligations,6,4,25
+6721,Intérêts dans loyers de location acquisition / crédit-bail immobilier,6,4,25
+6722,Intérêts dans loyers de location acquisition / crédit-bail mobilier,6,4,25
+6723,Intérêts dans loyers de location acquisition / location vente,6,4,25
+6724,Intérêts dans loyers des autres contrats,6,4,25
+6741,Avances reçues et dépôts créditeurs,6,4,25
+6742,Comptes courants bloqués,6,4,25
+6743,Intérêts sur obligations cautionnées,6,4,25
+6744,Intérêts sur dettes commerciales,6,4,25
+6745,Intérêts bancaires et sur opérations de trésorerie et d'escompte,6,4,25
+6748,Intérêts sur dettes diverses,6,4,25
+6771,Pertes sur cessions de titres de placement,6,4,25
+6772,Malis provenant d'attribution gratuite d'actions au personnel salarié et aux dirigeants,6,4,25
+6781,678 · Pertes sur risques financiers sur rentes viagères,6,4,25
+6782,678 · Pertes sur risques financiers sur opérations financières,6,4,25
+6784,678 · Pertes sur risques financiers sur instruments de trésorerie,6,4,25
+6791,679 · Charges pour depreciations et provisions pour risques a court terme financieres charges pour dépréciation sur risques financiers et le crédit du compte 594 dépréciations des comptes d'instruments financiers.,6,4,25
+6795,679 · Charges pour depreciations et provisions pour risques a court terme financieres sur titres de placement,6,4,25
+6798,Autres charges pour dépréciations et provisions pour risques à court terme financières,6,4,25
+6812,Dotations aux amortissements des immobilisations incorporelles,6,4,25
+6813,Dotations aux amortissements des immobilisations corporelles,6,4,25
+6911,691 · Dotations aux provisions et aux depreciations d’exploitation pour risques et charges,6,4,25
+6913,691 · Dotations aux provisions et aux depreciations d’exploitation des immobilisations incorporelles,6,4,25
+6914,691 · Dotations aux provisions et aux depreciations d’exploitation des immobilisations corporelles,6,4,26
+6971,697 · Dotations aux provisions et aux depreciations financieres pour risques et charges,6,4,26
+6972,697 · Dotations aux provisions et aux depreciations financieres des immobilisations financières,6,4,26
+70,Ventes,7,2,26
+71,Subventions d'exploitation,7,2,26
+72,Production immobilisée,7,2,26
+73,Variations des stocks de biens et services produits,7,2,26
+75,Autres produits (sauf compte 759),7,2,26
+77,Revenus financiers et produits assimilés,7,2,26
+78,Transferts de charges,7,2,26
+79,"Reprises de provisions, dépréciations et autres",7,2,26
+701,VENTES DE MARCHANDISES,7,3,26
+702,VENTES DE PRODUITS FINIS,7,3,26
+703,VENTES DE PRODUITS INTERMEDIAIRES,7,3,26
+704,VENTES DE PRODUITS RESIDUELS,7,3,26
+705,TRAVAUX FACTURES,7,3,26
+706,SERVICES VENDUS,7,3,26
+707,PRODUITS ACCESSOIRES,7,3,26
+711,SUR PRODUITS A L'EXPORTATION,7,3,26
+712,SUR PRODUITS A L'IMPORTATION,7,3,26
+713,SUR PRODUITS DE PEREQUATION,7,3,26
+718,AUTRES SUBVENTIONS D'EXPLOITATION,7,3,26
+721,Immobilisations incorporelles,7,3,26
+722,Immobilisations corporelles,7,3,26
+724,Production auto-consommée,7,3,26
+726,Immobilisations financières (1),7,3,26
+734,VARIATIONS DES STOCKS DE PRODUITS EN COURS,7,3,26
+735,VARIATIONS DES EN-COURS DE SERVICES,7,3,26
+736,VARIATIONS DES STOCKS DE PRODUITS FINIS,7,3,26
+737,VARIATIONS DES STOCKS DE PRODUITS INTERMEDIAIRES ET RESIDUELS,7,3,26
+752,QUOTE-PART DE RESULTAT SUR OPERATIONS FAITES EN COMMUN,7,3,26
+754,PRODUITS DES CESSIONS COURANTES D'IMMOBILISATIONS,7,3,26
+758,PRODUITS DIVERS,7,3,26
+759,REPRISES DE CHARGES POUR DEPRECIATIONS ET PROVISIONS A COURT TERME D'EXPLOITATION,7,3,26
+771,INTERETS DE PRÊTS ET CREANCES DIVERSES,7,3,26
+772,REVENUS DE PARTICIPATIONS ET AUTRES CREANCES IMMOBILISES,7,3,26
+773,ESCOMPTES OBTENUS,7,3,26
+774,REVENUS DE PLACEMENT,7,3,26
+775,INTERETS DANS LOYERS DE LOCATION ACQUISITION,7,3,26
+776,GAINS DE CHANGE,7,3,26
+777,GAINS SUR CESSIONS DE TITRES DE PLACEMENT,7,3,26
+778,GAINS SUR RISQUES FINANCIERS,7,3,26
+779,REPRISES DE CHARGES POUR DÉPRÉCIATIONS ET PROVISIONS POUR RISQUES À COURT TERME FINANCIERES,7,3,26
+781,TRANSFERTS DE CHARGES D'EXPLOITATION,7,3,26
+787,TRANSFERTS DE CHARGES FINANCIERES,7,3,27
+791,REPRISES DE PROVISIONS ET DE DEPRECIATIONS D'EXPLOITATION,7,3,27
+797,Reprises de provisions et de dépréciations financières,7,3,27
+798,REPRISES D'AMORTISSEMENTS (1),7,3,27
+799,REPRISES DE SUBVENTIONS D'INVESTISSEMENT,7,3,27
+7011,701 · Ventes de marchandises dans la Région (1),7,4,27
+7012,701 · Ventes de marchandises hors Région (1),7,4,27
+7013,701 · Ventes de marchandises aux entités du groupe dans la Région,7,4,27
+7014,701 · Ventes de marchandises aux entités du groupe hors Région,7,4,27
+7015,701 · Ventes de marchandises sur internet,7,4,27
+7021,702 · Ventes de produits finis dans la Région (1),7,4,27
+7022,702 · Ventes de produits finis hors Région (1),7,4,27
+7023,702 · Ventes de produits finis aux entités du groupe dans la Région,7,4,27
+7024,702 · Ventes de produits finis aux entités du groupe hors Région,7,4,27
+7025,702 · Ventes de produits finis sur internet,7,4,27
+7031,703 · Ventes de produits intermediaires dans la Région (1),7,4,27
+7032,703 · Ventes de produits intermediaires hors Région (1),7,4,27
+7033,703 · Ventes de produits intermediaires aux entités du groupe dans la Région,7,4,27
+7034,703 · Ventes de produits intermediaires aux entités du groupe hors Région,7,4,27
+7035,703 · Ventes de produits intermediaires sur internet,7,4,27
+7041,704 · Ventes de produits residuels dans la Région (1),7,4,27
+7042,704 · Ventes de produits residuels hors Région (1),7,4,27
+7043,704 · Ventes de produits residuels aux entités du groupe dans la Région,7,4,27
+7044,704 · Ventes de produits residuels aux entités du groupe hors Région,7,4,27
+7045,704 · Ventes de produits residuels sur internet,7,4,27
+7051,705 · Travaux factures dans la Région (1),7,4,27
+7052,705 · Travaux factures hors Région (1),7,4,27
+7053,705 · Travaux factures aux entités du groupe dans la Région,7,4,27
+7054,705 · Travaux factures aux entités du groupe hors Région,7,4,27
+7055,705 · Travaux factures sur internet,7,4,27
+7061,706 · Services vendus dans la Région (1),7,4,27
+7062,706 · Services vendus hors Région (1),7,4,27
+7063,706 · Services vendus aux entités du groupe dans la Région,7,4,28
+7064,706 · Services vendus aux entités du groupe hors Région,7,4,28
+7065,706 · Services vendus sur internet,7,4,28
+7071,"Ports, emballages perdus et autres frais facturés",7,4,28
+7072,Commissions et courtages (2),7,4,28
+7073,Locations (2),7,4,28
+7074,Bonis sur reprises et cessions d'emballage,7,4,28
+7075,Mise à disposition de personnel (2),7,4,28
+7076,"Redevances pour brevets, logiciels, marques et droits similaires (2)",7,4,28
+7077,Services exploités dans l'intérêt du personnel,7,4,28
+7078,Autres produits accessoires,7,4,28
+7181,Versées par l'Etat et les collectivités publiques,7,4,28
+7182,Versées par les organismes internationaux,7,4,28
+7183,Versées par des tiers,7,4,28
+7341,Produits en cours,7,4,28
+7342,Travaux en cours,7,4,28
+7351,Etudes en cours,7,4,28
+7352,Prestations de services en cours,7,4,28
+7371,Produits intermédiaires,7,4,28
+7372,Produits résiduels,7,4,28
+7521,Quote-part transférée de pertes (comptabilité du gérant),7,4,28
+7525,Bénéfices attribués par transfert (comptabilité des associés non gérants),7,4,28
+7581,Indemnités de fonction et autres rémunérations,7,4,28
+7582,Indemnités d'assurances reçues,7,4,28
+7588,Autres produits divers,7,4,28
+7591,759 · Reprises de charges pour depreciations et provisions a court terme d’exploitation sur risques à court terme,7,4,28
+7593,759 · Reprises de charges pour depreciations et provisions a court terme d’exploitation sur les stocks,7,4,28
+7594,759 · Reprises de charges pour depreciations et provisions a court terme d’exploitation sur les créances,7,4,28
+7598,759 · Reprises de charges pour depreciations et provisions a court terme d’exploitation sur autres charges pour dépréciations et provisions pour risques à court terme,7,4,28
+7712,Intérêts de prêts,7,4,28
+7713,Intérêts sur créances diverses,7,4,28
+7721,Revenus des titres de participation,7,4,28
+7722,Revenus des autres titres immobilisés,7,4,28
+7745,Revenus des obligations,7,4,28
+7746,Revenus des titres de placement,7,4,28
+7781,778 · Gains sur risques financiers sur rentes viagères,7,4,28
+7782,778 · Gains sur risques financiers sur opérations financières,7,4,28
+7784,778 · Gains sur risques financiers sur instruments de trésorerie,7,4,28
+7791,779 · Reprises de charges pour dépréciations et provisions pour risques à court terme financieres sur risques financiers,7,4,28
+7795,779 · Reprises de charges pour dépréciations et provisions pour risques à court terme financieres sur titres de placement,7,4,28
+7798,779 · Reprises de charges pour dépréciations et provisions pour risques à court terme financieres sur Autres charges pour dépréciations et provisions pour risques à court terme financières,7,4,28
+7911,791 · Reprises de provisions et de depreciations d’exploitation pour risques et charges,7,4,29
+7913,791 · Reprises de provisions et de depreciations d’exploitation des immobilisations incorporelles,7,4,29
+7914,791 · Reprises de provisions et de depreciations d’exploitation des immobilisations corporelles,7,4,29
+7971,797 · Reprises de provisions et de dépréciations financières pour risques et charges,7,4,29
+7972,797 · Reprises de provisions et de dépréciations financières des immobilisations financières,7,4,29
+81,Valeurs comptables des cessions d'immobilisations,8,2,29
+82,Produits des cessions d'immobilisations,8,2,29
+83,Charges hors activités ordinaires,8,2,29
+84,Produits hors activités ordinaires,8,2,29
+85,Dotations hors activités ordinaires,8,2,29
+86,"Reprises de charges, provisions et dépréciations HAO",8,2,29
+87,Participation des travailleurs,8,2,29
+88,Subventions d'équilibre,8,2,29
+89,Impôts sur le résultat,8,2,29
+811,IMMOBILISATIONS INCORPORELLES,8,3,29
+812,IMMOBILISATIONS CORPORELLES,8,3,29
+816,IMMOBILISATIONS FINANCIERES,8,3,29
+821,IMMOBILISATIONS INCORPORELLES,8,3,29
+822,IMMOBILISATIONS CORPORELLES,8,3,29
+826,IMMOBILISATIONS FINANCIERES,8,3,29
+831,CHARGES H.A.O. CONSTATEES,8,3,29
+833,CHARGES LIEES AUX OPERATIONS DE RESTRUCTURATION,8,3,29
+834,PERTES SUR CRÉANCES H.A.O.,8,3,29
+835,DONS ET LIBÉRALITÉS ACCORDÉS,8,3,29
+836,Abandons de créances consentis,8,3,29
+837,CHARGES LIEES AUX OPERATIONS DE LIQUIDATION,8,3,29
+839,CHARGES POUR DEPRECIATIONS ET PROVISIONS POUR RISQUES A COURT TERME H.A.O.,8,3,29
+841,PRODUITS H.A.O. CONSTATES,8,3,29
+843,PRODUITS LIES AUX OPERATIONS DE RESTRUCTURATION,8,3,29
+845,DONS ET LIBÉRALITÉS OBTENUS,8,3,29
+846,ABANDONS DE CREANCES OBTENUS,8,3,29
+847,PRODUITS LIES AUX OPERATIONS DE LIQUIDATION,8,3,29
+848,TRANSFERTS DE CHARGES H.A.O.,8,3,29
+849,REPRISES DE CHARGES POUR DEPRECIATIONS ET PROVISIONS POUR RISQUES A COURT TERME H.A.O.,8,3,29
+851,DOTATIONS AUX PROVISIONS REGLEMENTEES,8,3,29
+852,DOTATIONS AUX AMORTISSEMENTS H.A.O.,8,3,29
+853,DOTATIONS AUX DEPRECIATIONS H.A.O.,8,3,29
+854,DOTATIONS AUX PROVISIONS POUR RISQUES ET CHARGES H.A.O.,8,3,29
+858,AUTRES DOTATIONS H.A.O.,8,3,29
+861,REPRISES DE PROVISIONS REGLEMENTEES,8,3,29
+862,REPRISES D'AMORTISSEMENTS H.A.O.,8,3,29
+863,REPRISES DE DEPRECIATIONS H.A.O.,8,3,29
+864,REPRISES DE PROVISIONS POUR RISQUES ET CHARGES H.A.O.,8,3,29
+868,AUTRES REPRISES H.A.O.,8,3,30
+871,PARTICIPATION LÉGALE AUX BÉNÉFICES,8,3,30
+872,PARTICIPATION CONTRACTUELLE AUX BÉNÉFICES,8,3,30
+878,AUTRES PARTICIPATIONS,8,3,30
+881,ETAT,8,3,30
+884,COLLECTIVITÉS PUBLIQUES,8,3,30
+886,GROUPE,8,3,30
+888,AUTRES,8,3,30
+891,IMPÔTS SUR LES BENEFICES DE L'EXERCICE,8,3,30
+892,RAPPELS D'IMPÔTS SUR RESULTATS ANTERIEURS,8,3,30
+895,IMPÔT MINIMUM FORFAITAIRE (I.M.F .),8,3,30
+899,DÉGREVEMENTS ET ANNULATIONS D'IMPÔTS SUR RÉSULTATS ANTÉRIEURS,8,3,30
+8911,Activités exercées dans l'Etat,8,4,30
+8912,Activités exercées dans les autres Etats de la Région,8,4,30
+8913,Activités exercées hors Région,8,4,30
+8991,Dégrèvements,8,4,30
+8994,Annulations pour pertes rétroactives,8,4,30
+92,COMPTES REFLECHIS,9,2,30
+93,COMPTES DE RECLASSEMENTS,9,2,30
+94,COMPTES DE COÛTS,9,2,30
+95,COMPTES DE STOCKS,9,2,30
+96,COMPTES D'ECARTS SUR COÛTS PREETABLIS,9,2,30
+97,COMPTES DE DIFFERENCES DE TRAITEMENT COMPTABLE,9,2,30
+98,COMPTES DE RESULTATS,9,2,30
+99,COMPTES DE LIAISONS INTERNES,9,2,30
+914,Contreparties des comptes 901 à 904,9,3,30
+915,Contreparties des comptes 905 à 908,9,3,30
+9011,Crédits confirmés obtenus,9,4,30
+9012,Emprunts restant à encaisser,9,4,30
+9013,Facilités de financement renouvelables,9,4,30
+9014,Facilités d'émission,9,4,30
+9018,Autres engagements de financement obtenus,9,4,30
+9021,Avals obtenus,9,4,30
+9022,"Cautions, garanties obtenues",9,4,30
+9023,Hypothèques obtenues,9,4,30
+9024,Effets endossés par des tiers,9,4,30
+9028,Autres garanties obtenues,9,4,30
+9031,Achats de marchandises à terme,9,4,30
+9032,Achats à terme de devises,9,4,30
+9033,Commandes fermes des clients,9,4,30
+9038,Autres engagements réciproques,9,4,30
+9041,Abandons de créances conditionnels,9,4,30
+9043,Ventes avec clause de réserve de propriété,9,4,30
+9048,Divers engagements obtenus,9,4,30
+9051,Crédits accordés non décaissés,9,4,30
+9058,Autres engagements de financement accordés,9,4,30
+9061,Avals accordés,9,4,31
+9062,"Cautions, garanties accordées",9,4,31
+9063,Hypothèques accordées,9,4,31
+9064,Effets endossés par l'entité,9,4,31
+9068,Autres garanties accordées,9,4,31
+9071,Ventes de marchandises à terme,9,4,31
+9072,Ventes à terme de devises,9,4,31
+9073,Commandes fermes aux fournisseurs,9,4,31
+9078,Autres engagements réciproques,9,4,31
+9081,Annulations conditionnelles de dettes,9,4,31
+9083,Achats avec clause de réserve de propriété,9,4,31
+9088,Divers engagements accordés,9,4,31
+9151,Contrepartie du compte 9051 (crédits accordés non décaissés),9,4,31
+9183,Contrepartie du compte 9083 (achats avec clause de réserve de propriété),9,4,31
